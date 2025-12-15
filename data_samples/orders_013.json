@@ -1,0 +1,9 @@
+{
+  "order_id": "O1006",
+  "customer_id": "C101",
+  "order_status": "CREATED",
+  "order_amount": 950,
+  "currency": "INR",
+  "event_time": "2025-01-16T08:00:00",
+  "updated_at": "2025-01-16T08:00:00"
+}
