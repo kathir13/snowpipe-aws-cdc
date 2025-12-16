@@ -1,0 +1,5 @@
+CREATE OR REPLACE TABLE raw_orders (
+  data VARIANT,
+  file_name STRING,
+  load_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+);
