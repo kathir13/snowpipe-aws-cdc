@@ -16,4 +16,4 @@
 ## Resulting Flow
 S3 → SQS → Snowpipe → Raw Table
 
-Reference : [text](https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-s3#option-1-creating-a-new-s3-event-notification-to-automate-snowpipe)
+Reference : [Snowflake_Doc](https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-s3#option-1-creating-a-new-s3-event-notification-to-automate-snowpipe)
